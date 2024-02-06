@@ -1,4 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+.my-custom-bg-class{
+    background-image: url("https://www.vecteezy.com/vector-art/9287690-vector-black-fabric-texture-background");
+}
